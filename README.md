@@ -1,22 +1,23 @@
-## Connect with me:
+## Connect
 
 [Linkedin](https://sg.linkedin.com/in/awnathan)
 
-[Twitter](https://twitter.com/nathan_mk_aw )
+[Twitter](https://twitter.com/nathan_mk_aw)
 
-### Presentations/Works:
+### Selected Presentations/Works:
 
-https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01
+[Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
 
-https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01
+[Byzantine Agreement Protocols for Large-Scale Decentralized Identity Management](https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01)
 
-https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network
+[Applications for Quantum Information Network: Promising Use Cases and its Profound Implications on Existing Internet Applications](https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network)
 
-https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf
+[Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and
+Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf)
 
-https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwinds_Supply_Chain_Attack_and_Deterring_it_Honing_in_on_the_Golden_SAML_Attack_Technique.pdf
+[Deconstructing the Solarwinds Supply Chain Attack and Deterring it: Honing in on the Golden SAML Attack Technique](https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwinds_Supply_Chain_Attack_and_Deterring_it_Honing_in_on_the_Golden_SAML_Attack_Technique.pdf)
 
-https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf
+[Microservices Security, Container Runtime Security, MITRE ATT&CK® for Kubernetes (K8S) and Service Mesh for Security](https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf)
 
-https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf
+[How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
 
