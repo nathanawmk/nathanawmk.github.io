@@ -1,10 +1,10 @@
-## Connect:
+## Connect with me:
 
-https://sg.linkedin.com/in/awnathan
-https://twitter.com/nathan_mk_aw
+[Linkedin](https://sg.linkedin.com/in/awnathan)
 
+[Twitter](https://twitter.com/nathan_mk_aw )
 
-## Chosen Presentations/Works:
+### Presentations/Works:
 
 https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01
 
@@ -19,3 +19,4 @@ https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwi
 https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf
 
 https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf
+
