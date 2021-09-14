@@ -4,6 +4,8 @@
 
 [Twitter](https://twitter.com/nathan_mk_aw)
 
+[Plain old email](nathan.mk.aw@gmail.com)
+
 ### Selected Presentations/Works:
 
 [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
