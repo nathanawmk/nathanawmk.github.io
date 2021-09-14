@@ -4,7 +4,7 @@
 
 [Twitter](https://twitter.com/nathan_mk_aw)
 
-[Plain old email](nathan.mk.aw@gmail.com)
+[Plain old email](mailto:nathan.mk.aw@gmail.com)
 
 ### Selected Presentations/Works:
 
