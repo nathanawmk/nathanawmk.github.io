@@ -8,6 +8,7 @@
 
 [Gitlab](https://gitlab.com/nathanawmk)
 
+[Substack](https://nathanaw.substack.com/)
 
 ### Selected Presentations/Works:
 
