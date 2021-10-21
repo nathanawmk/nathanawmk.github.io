@@ -25,3 +25,4 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
 
+[Enabling Zero Trust Architecture (ZTA) with Least-Privilege Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Demo on The Update Framework](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
