@@ -8,6 +8,7 @@
 
 [Gitlab](https://gitlab.com/nathanawmk)
 
+
 ### Selected Presentations/Works:
 
 [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
@@ -26,3 +27,21 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
 
 [Enabling Zero Trust Architecture (ZTA) with Least-Privilege Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Demo on The Update Framework](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
+
+[Understanding the Limits and Potential of Blockchain Technology](https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09)
+
+[Presentation to Sweden: Hyperledger Ordering Service: Deep Dive into the Raft Consensus Algorithm](https://www.youtube.com/watch?v=GN_6dEcDsAQ)
+
+[De](https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data)
+
+### Others: 
+
+[IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
+
+[About.me](https://about.me/mingkun.aw)
+
+[World Blockchain Forum](https://twitter.com/hyperledger/status/1143898717419921409)
+
+[Bitcoin Magazine Profile](https://bitcoinmagazine.com/authors/nathan-aw)
+
+[Hyperledger Speakers Bureau](https://www.hyperledger.org/participate/speakersbureau)
