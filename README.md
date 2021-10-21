@@ -32,7 +32,7 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Presentation to Sweden: Hyperledger Ordering Service: Deep Dive into the Raft Consensus Algorithm](https://www.youtube.com/watch?v=GN_6dEcDsAQ)
 
-[De](https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data)
+[Developer Showcase Series](https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data)
 
 ### Others: 
 
