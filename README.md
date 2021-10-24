@@ -14,13 +14,15 @@
 
 [Stackoverflow](https://stackoverflow.com/users/8588369/nathan-aw)
 
-### Selected Presentations/Works:
+### Selected Presentations/Works at the IETF:
 
 [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
 
 [Byzantine Agreement Protocols for Large-Scale Decentralized Identity Management](https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01)
 
 [Applications for Quantum Information Network: Promising Use Cases and its Profound Implications on Existing Internet Applications](https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network)
+
+### Selected Presentations/Works at the OWASP:
 
 [Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and
 Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf)
@@ -32,6 +34,9 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
 
 [Enabling Zero Trust Architecture (ZTA) with Least-Privilege Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Demo on The Update Framework](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
+
+
+### Selected Presentations/Works on Blockchain:
 
 [Understanding the Limits and Potential of Blockchain Technology](https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09)
 
