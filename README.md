@@ -14,6 +14,8 @@
 
 [Stackoverflow](https://stackoverflow.com/users/8588369/nathan-aw)
 
+[About.me](https://about.me/mingkun.aw)
+
 ### Selected Presentations/Works at the IETF:
 
 [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
@@ -47,8 +49,6 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 ### Others: 
 
 [IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
-
-[About.me](https://about.me/mingkun.aw)
 
 [World Blockchain Forum](https://twitter.com/hyperledger/status/1143898717419921409)
 
