@@ -24,7 +24,7 @@
 
 [Applications for Quantum Information Network: Promising Use Cases and its Profound Implications on Existing Internet Applications](https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network)
 
-### Selected Presentations/Works at the OWASP:
+### Selected Presentations/Works at OWASP Singapore:
 
 [Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and
 Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf)
