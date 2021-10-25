@@ -8,7 +8,7 @@
 
 [Gitlab](https://gitlab.com/nathanawmk)
 
-[Github](https://github.com/nathanawmk)
+[Github](https://nathanawmk.github.io/)
 
 [Substack](https://nathanaw.substack.com/)
 
