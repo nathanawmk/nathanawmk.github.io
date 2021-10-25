@@ -41,9 +41,15 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Understanding the Limits and Potential of Blockchain Technology](https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09)
 
-[Presentation to Sweden: Hyperledger Ordering Service: Deep Dive into the Raft Consensus Algorithm](https://www.youtube.com/watch?v=GN_6dEcDsAQ)
+[Presentation to Hyperledger Sweden: Hyperledger Ordering Service: Deep Dive into the Raft Consensus Algorithm](https://www.youtube.com/watch?v=GN_6dEcDsAQ)
 
 [Hyperledger Developer Showcase Series](https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data)
+
+[Decentralized Identity: The Elusive Key to Inclusive Growth](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
+
+[Private Data Collections: A High-Level Overview](https://www.hyperledger.org/blog/2018/10/23)
+
+[Hyperledger Sawtooth, Seth and Truffle 101](https://www.hyperledger.org/blog/2018/07/24/hyperledger-sawtooth-seth-and-truffle-101)
 
 ### Others: 
 
@@ -54,8 +60,6 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [Bitcoin Magazine Profile](https://bitcoinmagazine.com/authors/nathan-aw)
 
 [Hyperledger Speakers Bureau](https://www.hyperledger.org/participate/speakersbureau)
-
-[Decentralized Identity: The Elusive Key to Inclusive Growth](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
 
 [Silliman University National Writers Workshop - 2012 Fellows](https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop)
 
