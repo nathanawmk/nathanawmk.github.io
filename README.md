@@ -57,52 +57,52 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Decentralized Identity: The Elusive Key to Inclusive Growth](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
 
+[Silliman University National Writers Workshop - 2012 Fellows](https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop)
+
 ### Source: 
 
-(https://sg.linkedin.com/in/awnathan)
+https://sg.linkedin.com/in/awnathan
 
-(https://twitter.com/nathan_mk_aw)
+https://twitter.com/nathan_mk_aw
 
-(nathan.mk.aw@gmail.com)
+https://gitlab.com/nathanawmk
 
-(https://gitlab.com/nathanawmk)
+https://github.com/nathanawmk
 
-(https://github.com/nathanawmk)
+https://nathanaw.substack.com/
 
-(https://nathanaw.substack.com/)
+https://stackoverflow.com/users/8588369/nathan-aw
 
-(https://stackoverflow.com/users/8588369/nathan-aw)
+https://about.me/mingkun.aw
 
-(https://about.me/mingkun.aw)
+https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01
 
-(https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
+https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01
 
-(https://datatracker.ietf.org/meeting/104/materials/slides-104-dinrg-byzantine-agreement-protocols-for-large-scale-decentralized-identity-management-01)
+https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network
 
-(https://datatracker.ietf.org/meeting/interim-2020-qirg-01/materials/slides-interim-2020-qirg-01-sessa-applications-for-quantum-information-network)
+https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf
 
-(https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf)
+https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwinds_Supply_Chain_Attack_and_Deterring_it_Honing_in_on_the_Golden_SAML_Attack_Technique.pdf
 
-(https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwinds_Supply_Chain_Attack_and_Deterring_it_Honing_in_on_the_Golden_SAML_Attack_Technique.pdf)
+https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf
 
-(https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf)
+https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf
 
-(https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
+https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf
 
-(https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
+https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09
 
-(https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09)
+https://www.youtube.com/watch?v=GN_6dEcDsAQ
 
-(https://www.youtube.com/watch?v=GN_6dEcDsAQ)
+https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data
 
-(https://www.hyperledger.org/blog/2017/12/05/developer-showcase-series-nathan-aw-ntt-data)
+https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw
 
-(https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
+https://twitter.com/hyperledger/status/1143898717419921409
 
-(https://twitter.com/hyperledger/status/1143898717419921409)
+https://bitcoinmagazine.com/authors/nathan-aw
 
-(https://bitcoinmagazine.com/authors/nathan-aw)
+https://www.hyperledger.org/participate/speakersbureau
 
-[](https://www.hyperledger.org/participate/speakersbureau)
-
-[](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
+https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx
