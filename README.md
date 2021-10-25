@@ -16,8 +16,6 @@
 
 [About.me](https://about.me/mingkun.aw)
 
-[Nathan Aw](http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/)
-
 ### Selected Presentations/Works at the Internet Engineering Task Force (IETF):
 
 [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
@@ -60,6 +58,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [Decentralized Identity: The Elusive Key to Inclusive Growth](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
 
 [Silliman University National Writers Workshop - 2012 Fellows](https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop)
+
+[Nathan Aw](http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/)
 
 ### Source: 
 
@@ -112,4 +112,3 @@ https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digita
 http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/
 
 https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop
-
