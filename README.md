@@ -103,6 +103,6 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 (https://bitcoinmagazine.com/authors/nathan-aw)
 
-(https://www.hyperledger.org/participate/speakersbureau)
+[](https://www.hyperledger.org/participate/speakersbureau)
 
-(https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
+[](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
