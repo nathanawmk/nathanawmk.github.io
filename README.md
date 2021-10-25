@@ -38,7 +38,7 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [Enabling Zero Trust Architecture (ZTA) with Least-Privilege Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Demo on The Update Framework](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
 
 
-### Selected Presentations/Works on Blockchain:
+### Selected Presentations/Works on Blockchain/Distributed Ledger Technologies (DLT):
 
 [Understanding the Limits and Potential of Blockchain Technology](https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09)
 
@@ -55,6 +55,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [Bitcoin Magazine Profile](https://bitcoinmagazine.com/authors/nathan-aw)
 
 [Hyperledger Speakers Bureau](https://www.hyperledger.org/participate/speakersbureau)
+
+[Decentralized Identity: The Elusive Key to Inclusive Growth](https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx)
 
 ### SOURCE: 
 
