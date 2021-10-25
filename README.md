@@ -16,7 +16,7 @@
 
 [About.me](https://about.me/mingkun.aw)
 
-### Selected Presentations/Works at the IETF:
+### Selected Presentations/Works at the Internet Engineering Task Force (IETF):
 
 [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
 
@@ -36,7 +36,6 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 [How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
 
 [Enabling Zero Trust Architecture (ZTA) with Least-Privilege Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Demo on The Update Framework](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
-
 
 ### Selected Presentations/Works on Blockchain/Distributed Ledger Technologies (DLT):
 
@@ -105,3 +104,5 @@ https://twitter.com/hyperledger/status/1143898717419921409
 https://bitcoinmagazine.com/authors/nathan-aw
 
 https://www.hyperledger.org/participate/speakersbureau
+
+https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digital%20Identity_%20%20The%20Elusive%20Key%20to%20Inclusive%20Growth%20%281%29_FINAL.pptx
