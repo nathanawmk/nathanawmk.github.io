@@ -51,6 +51,12 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Hyperledger Sawtooth, Seth and Truffle 101](https://www.hyperledger.org/blog/2018/07/24/hyperledger-sawtooth-seth-and-truffle-101)
 
+### Certifications:
+
+[Microsoft Azure Fundamentals](https://credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f)
+
+[Microsoft Azure Architect Technologies (AZ-303)]()
+
 ### Others: 
 
 [IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
