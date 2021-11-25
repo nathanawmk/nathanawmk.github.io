@@ -124,3 +124,5 @@ https://wiki.hyperledger.org/download/attachments/2392948/Decentralized%20Digita
 http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/
 
 https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop
+
+https://owasp.org/www-chapter-singapore/assets/presos/Supply_Chain_Security_Securing_your_NPM,_PyPI,_Maven_and_Crates_(Rust),_Shift_Left_with_Gitops_and_Software_Fuzzing.pdf
