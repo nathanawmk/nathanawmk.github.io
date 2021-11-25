@@ -26,6 +26,8 @@
 
 ### Selected Presentations/Works at OWASP Singapore:
 
+[Malware Discovered in Popular NPM: Anatomy of Next-Gen Supply Chain Attacks. Tools and Guidelines to Secure Software Packages, Dependencies (NPM, PyPI, Maven, NuGet, Crates and RubyGems) to Guard against Supply Chain Attacks. How to setup Guardrails and not Roadblocks or Gates: Shift Left with Gitops plus integrating Fuzzing into DevSecOps. The importance of having Cloud Infrastructure Entitlements Management (CIEM) to enforce permissions and security identities across workloads and clouds.](https://owasp.org/www-chapter-singapore/assets/presos/Supply_Chain_Security_Securing_your_NPM,_PyPI,_Maven_and_Crates_(Rust),_Shift_Left_with_Gitops_and_Software_Fuzzing.pdf)
+
 [Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and
 Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf)
 
