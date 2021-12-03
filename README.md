@@ -55,9 +55,11 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 ### Certifications:
 
-[Microsoft Azure Fundamentals](https://credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f)
+[Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/cae19203-4eb1-4ae0-8e99-a1b2b3852eab)
 
-[Microsoft Azure Architect Technologies (AZ-303)]()
+[Microsoft Azure Fundamentals](https://www.credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f)
+
+[Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/1df3e0be-2b1b-4ed4-8df0-9f2488168c99)
 
 ### Others: 
 
@@ -126,3 +128,9 @@ http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/
 https://en.wikipedia.org/wiki/Silliman_National_Writers_Workshop
 
 https://owasp.org/www-chapter-singapore/assets/presos/Supply_Chain_Security_Securing_your_NPM,_PyPI,_Maven_and_Crates_(Rust),_Shift_Left_with_Gitops_and_Software_Fuzzing.pdf
+
+https://www.credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f
+
+https://www.credly.com/badges/1df3e0be-2b1b-4ed4-8df0-9f2488168c99
+
+https://www.credly.com/badges/cae19203-4eb1-4ae0-8e99-a1b2b3852eab
