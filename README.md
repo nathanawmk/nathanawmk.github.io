@@ -61,6 +61,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/1df3e0be-2b1b-4ed4-8df0-9f2488168c99)
 
+[Designing and Implementing Microsoft DevOps Solutions](https://www.credly.com/badges/d55cd8db-2147-4f22-acd6-f11611fd71d5)
+
 ### Others: 
 
 [IEEE Blockchain Technical Briefs Editorial Board](https://blockchain.ieee.org/technicalbriefs/editorial-board#nathan-aw)
@@ -134,3 +136,5 @@ https://www.credly.com/badges/38edcb62-9339-48a5-a500-4fa44199e04f
 https://www.credly.com/badges/1df3e0be-2b1b-4ed4-8df0-9f2488168c99
 
 https://www.credly.com/badges/cae19203-4eb1-4ae0-8e99-a1b2b3852eab
+
+https://www.credly.com/badges/d55cd8db-2147-4f22-acd6-f11611fd71d5
