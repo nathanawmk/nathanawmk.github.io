@@ -39,6 +39,8 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 [Enabling Zero Trust Architecture (ZTA) with Least-Privilege Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Demo on The Update Framework](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf)
 
+[Deconstructing the Solarwinds Supply Chain Attack and Deterring it: Honing in on the Golden SAML Attack Technique - Translated to Japanese](https://qualias.net/deconstructing-the-solarwinds-supply-chain-attack-and-deterring-it-honing-in-on-the-golden-saml-attack-technique/)
+
 ### Selected Presentations+Works on Blockchain/Distributed Ledger Technologies (DLT):
 
 [Understanding the Limits and Potential of Blockchain Technology](https://www.nasdaq.com/articles/guest-post%3A-understanding-the-limits-and-potential-of-blockchain-technology-2017-11-09)
