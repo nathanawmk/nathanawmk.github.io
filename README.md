@@ -147,6 +147,6 @@ https://www.meetup.com/singapore-owasp-meetup-group/events/280590027/
 
 https://www.meetup.com/singapore-owasp-meetup-group/events/279796090/
 
-https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/
+(https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/)
 
 
