@@ -16,6 +16,8 @@
 
 [About.me](https://about.me/mingkun.aw)
 
+[Infoq](https://www.infoq.com/profile/Nathan-Aw.1/)
+
 ### Selected Presentations/Works at the Internet Engineering Task Force (IETF):
 
 1. [Decentralized Identity - What Lies Ahead of Us: The Open (Interesting) Research Issues](https://datatracker.ietf.org/meeting/103/materials/slides-103-dinrg-decentralized-identity-01)
