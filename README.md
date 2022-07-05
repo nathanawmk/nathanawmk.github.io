@@ -83,6 +83,10 @@ Aqua Security Trivy & tfsec](https://github.com/OWASP/www-chapter-singapore/raw/
 
 6. [Nathan Aw](http://nathan-mk-aw.s3-website-ap-southeast-1.amazonaws.com/)
 
+7. [Chosen to attend National Writers Workshop at Philippines and awarded the Fellowship for writing.](https://news.smu.edu.sg/news/2012/05/21/onward-next-50)
+
+8. [Poetry @ Nathan Aw Substack - Behold the pointless modern man!](https://nathanaw.substack.com/p/behold-the-pointless-modern-man)
+
 ### Source/References: 
 
 https://sg.linkedin.com/in/awnathan
@@ -153,6 +157,10 @@ https://www.meetup.com/singapore-owasp-meetup-group/events/280590027/
 
 https://www.meetup.com/singapore-owasp-meetup-group/events/279796090/
 
-[](https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/)
+https://www.meetup.com/singapore-owasp-meetup-group/events/276259224/
+
+https://news.smu.edu.sg/news/2012/05/21/onward-next-50
+
+https://nathanaw.substack.com/p/behold-the-pointless-modern-man
 
 
