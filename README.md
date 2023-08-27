@@ -18,7 +18,7 @@
 
 [Infoq](https://www.infoq.com/profile/Nathan-Aw.1/)
 
-[Hugging Face](https://huggingface.co/nathanaw)
+[Hugging Face :) ](https://huggingface.co/nathanaw)
 
 ### Selected Presentations/Works at the Internet Engineering Task Force (IETF):
 
